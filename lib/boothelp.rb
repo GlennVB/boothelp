@@ -1,4 +1,5 @@
 require "boothelp/version"
+require "TagHelper"
 
 module Boothelp
   def self.icon(*args)
